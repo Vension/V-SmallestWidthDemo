@@ -5,9 +5,10 @@
 # [参考文章](https://mp.weixin.qq.com/s?__biz=MzI3OTU0MzI4MQ==&mid=2247485930&idx=1&sn=089d0b90bcb2a3a47cf4888bdb376d34&chksm=eb476574dc30ec6296a47deda1725f2960a1e58f22513317cfd554493a6c871da3727d6cd8b4&mpshare=1&scene=1&srcid=0628JTSeHMxiIefbgtsbTXk5#rd)
 - 效果图展示
 
-<div style="display:flex;">
-   <img alt="image" src="https://github.com/Vension/V-Frame2.0/blob/master/Screenshots/GIF.gif" width="50%">
-</div>
+![](https://github.com/Vension/V-SmallestWidthDemo/blob/master/Screenshots/1530152796(1).jpg)  
+![](https://github.com/Vension/V-SmallestWidthDemo/blob/master/Screenshots/1530152823(1).jpg) 
+ 
+
  
 ## LICENSE
 
